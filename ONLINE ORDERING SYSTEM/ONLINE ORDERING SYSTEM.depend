@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1735293511 source:c:\users\student\documents\codeblocks\online ordering system\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
